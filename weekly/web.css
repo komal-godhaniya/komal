@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#cont-fl-1{
+    height: 800px;
+    border: 1px solid transparent;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-74-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#cont-fl-1 h1{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cont-1{
+    height: 310px;
+}
+#row-1{
+    height: 500px;
+}
+#cont-2{
+    height: 550px;
+}
+#row-1 #col-1{
+    height: 500px;
+    width: 31%;
+}
+#col-1 img{
+    height: 100%;
+    width: 100%;
+}
+#cont-fl-2{
+    height: 600px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-79.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#cont-3{
+    height: 600px;
+    border: 1px solid transparent;
+}
+#cont-3 .row{
+    height: 550px;
+    border: 1px solid transparent;
+}
+#cont-3 .row .col{
+    height: 550px;
+    border: 1px solid transparent;
+}
+#img-1{
+    height: 100%;
+    width: 100%;
+}
+#cont-fl-3{
+    height: 700px;
+    border: 1px solid transparent;
+}
+#row-2{
+    height: 250px;
+    border: 1px solid transparent;
+}
+#row-2 #col-8{
+    height: 250px;
+    width: 27%;
+    border: 1px solid transparent;
+}
+#img-2{
+    height: 100%;
+    width: 100%;
+}
+#cont-fl-4{
+    height: 800px;
+    border: 1px solid transparent;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-80-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#row-3{
+    height: 450px;
+    border: 1px solid transparent;
+    width: 90%;
+    margin-left: 5%;
+}
+#row-3 .col{
+    width: 30%;
+    border: 1px solid transparent;
+}
+#col-9{
+    background: url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-81-600x901.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-10{
+    background: url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-82-600x900.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-11{
+    background: url('https://cozystay.loftocean.com/island-resort/wp-content/uploads/sites/3/2023/03/img-83-600x901.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#cont-fl-5{
+    height: 210px;
+    background-color: rgb(17,17,17);
+}
+#row-4{
+    height: 140px;
+}
+#row-4 .col {
+    height: 140px;
+    border: 1px solid rgb(34,34,34);
+}
