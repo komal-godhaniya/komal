@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#cont-1{
+    height: 700px;
+    border: 1px solid transparent;
+    background-image: url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/slider-colored-fashion-7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h1{
+    font-size: 160px;
+    margin-top: 170px;
+}
+#cont-fl-1{
+    border: 1px solid transparent;
+    height: 350px;
+}
+#row-1{
+    border: 1px solid transparent;
+    height: 350px;
+}
+#row-1 .col{
+    border: 1px solid transparent;
+    height: 350px;
+    width: 33%;
+}
+#col-1{
+    background: url('https://woodmart.b-cdn.net/wp-content/uploads/2017/03/cat-colored-fashion-7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-2{
+    background: url('https://woodmart.b-cdn.net/wp-content/uploads/2017/03/cat-colored-fashion-14.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-3{
+    background: url('https://woodmart.b-cdn.net/wp-content/uploads/2017/03/cat-colored-fashion-10.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cont-2{
+    height: 1150px;
+    border: 1px solid transparent;
+}
+#row-2{
+    height: 450px;
+    border: 1px solid transparent;
+    width: 86%;
+    margin-left: 7%;
+}
+#row-2 .col{
+    height: 450px;
+    border: 1px solid transparent;
+    width: 31%;
+}
+#cont-fl-2{
+    height: 650px;
+    border: 1px solid transparent;
+}
+#row-3{
+    height: 450px;
+    border: 1px solid transparent;
+}
+#row-3 .col{
+    height: 450px;
+    border: 1px solid transparent;
+    width: 19.5%;
+}
+#col-6{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/cat-colored-44.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#col-7{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/cat-colored-27.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-8{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/cat-colored-28.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-9{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/cat-colored-35.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#col-10{
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url('https://woodmart.b-cdn.net/wp-content/uploads/2017/01/cat-colored-45.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cont-3{
+    height: 450px;
+    /* border: 1px solid; */
+}
+#row-4{
+    height: 200px;
+    /* border: 1px solid red; */
+    width: 82%;
+    margin-left: 8%;
+}
+#row-4 .col{
+    height: 200px;
+    width: 32%;
+    /* border: 1px solid blue; */
+}
+#col-11{
+    border-right: 1px solid grey;
+}
+#cont-fl-3{
+    height: 500px;
+    border: 1px solid transparent;
+}
+#row-5{
+    height: 230px;
+    border: 1px solid transparent;
+}
+#row-5 .col{
+    height: 230px;
+    border: 1px solid transparent;
+}
+#cont-4{
+    height: 400px;
+    border: 1px solid transparent;
+}
+#row-6{
+    height: 350px;
+    border: 1px solid transparent;
+}
+#row-6 .col{
+    height: 300px;
+    border: 1px solid transparent;
+}
+#col-12{
+    width: 21%;
+}
+#col-13{
+    width: 37%;
+}
+
+
+
